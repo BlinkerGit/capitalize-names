@@ -317,6 +317,7 @@ module CapitalizeNames
     "Maccurry",
     "Macdermattroe",
     "Macdiarmada",
+    "Macejkovic",
     "Macelvaine",
     "Macey",
     "Macgraugh",
