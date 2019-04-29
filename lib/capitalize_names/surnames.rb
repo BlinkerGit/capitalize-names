@@ -2,6 +2,7 @@ module CapitalizeNames
   SURNAMES = [
     "ApShaw",
     "d'Albini",
+    "D'Amorehaven",
     "d'Aubigney",
     "d'Autry",
     "d'Entremont",
